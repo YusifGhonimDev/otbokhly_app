@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "158716441516",
+    "project_id": "otbokhly-app",
+    "storage_bucket": "otbokhly-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158716441516:android:ee815668e24de0e60f8009",
+        "android_client_info": {
+          "package_name": "com.example.otbokhly_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158716441516-d4occ2r1grjlt6vb14jl9e6f720eg4ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIRzTevWy1DVv-kNZcqrkSiGOdwvMiH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158716441516-d4occ2r1grjlt6vb14jl9e6f720eg4ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158716441516-pqmu69bjdo2fd9sjj1dl4l6sr6l8s8gm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.otbokhlyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
